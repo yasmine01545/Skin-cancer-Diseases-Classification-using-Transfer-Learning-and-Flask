@@ -22,8 +22,7 @@ Section 3 represents results and discussion.
 
 ```bash
 Section 4 deploy the model using flask.
-
-
+```
 
 
 
