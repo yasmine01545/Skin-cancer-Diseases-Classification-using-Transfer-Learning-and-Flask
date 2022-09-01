@@ -38,3 +38,11 @@ you can download the data from here:
 https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection
 There are three directories: train, valid, and test. Each directory contains two subdirectories:
 melanoma,NotMelanoma. Each of these directories contains images for that specific class.
+
+
+## 
+
+- Sample images of Melanoma from the dataset:
+
+
+- Sample images of NotMelanoma from the dataset:
