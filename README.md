@@ -53,3 +53,10 @@ melanoma,NotMelanoma. Each of these directories contains images for that specifi
 - Sample images of NotMelanoma from the dataset:
 
 ![ISIC_0024497](https://user-images.githubusercontent.com/80918787/187922213-ec301530-bcb1-4101-9f7b-5764d548701d.jpg)
+
+
+## build with
+-TensorFlow
+-Keras
+-Python
+-flask
