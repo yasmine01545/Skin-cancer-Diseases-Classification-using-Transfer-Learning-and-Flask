@@ -26,6 +26,7 @@ Section 4 deploy the model using flask.
 
 
 In this work, we propose a modified InceptionV3 model for the classification of skin cancer. We propose to use Transfer learning which is a common technique for deep learning that uses pre-trained models as VGG16 ,Inception as a starting point to speed up training and to enhance the deep learning model's performance in order to classify skin cancer with a better accuracy value compared to the state of the art.
+## DATA
 
 The model has been built using deep learning library. The classifier has been trained using Kaggle dataset which contains 2 classes: melanoma and Not Melanoma.
 More details about this datasets are given below:
