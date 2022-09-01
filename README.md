@@ -55,4 +55,3 @@ melanoma,NotMelanoma. Each of these directories contains images for that specifi
 ![ISIC_0024497](https://user-images.githubusercontent.com/80918787/187922213-ec301530-bcb1-4101-9f7b-5764d548701d.jpg)
 ![ISIC_0024642](https://user-images.githubusercontent.com/80918787/187922234-218b5da6-1b00-440a-8ae3-05be4ff79541.jpg)
 ![ISIC_0024785](https://user-images.githubusercontent.com/80918787/187922275-20aa87f5-3bf5-461d-943e-193e60f48ec5.jpg)
-
