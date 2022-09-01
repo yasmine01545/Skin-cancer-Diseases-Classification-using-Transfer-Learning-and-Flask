@@ -43,6 +43,7 @@ melanoma,NotMelanoma. Each of these directories contains images for that specifi
 ## 
 
 - Sample images of Melanoma from the dataset:
+![AUG_0_354](https://user-images.githubusercontent.com/80918787/187921737-e8ab1669-7361-4dce-8d86-5ab1ed0e9816.jpeg)
 
 
 - Sample images of NotMelanoma from the dataset:
