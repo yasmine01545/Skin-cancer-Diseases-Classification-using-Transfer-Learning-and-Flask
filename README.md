@@ -4,9 +4,9 @@ In this work, we propose a modified InceptionV3 model for the classification of 
 This is the source code for a skin cancer detection web app which has been implemented with flask framework a. The model has been built using deep learning library. The classifier has been trained using Kaggle dataset which contains 2 classes: melanoma and Not Melanoma.
 More details about this datasets are given below:
 The data is divided into:
-training data (~2000 images)
-validation dataset (~150 images)
-test dataset (~600 images)
+*training data (~2000 images)
+*validation dataset (~150 images)
+*test dataset (~600 images)
 you can download the data from here:
 https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection
 There are three directories: train, valid, and test. Each directory contains two subdirectories:
