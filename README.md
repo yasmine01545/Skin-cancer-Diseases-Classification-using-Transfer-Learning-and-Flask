@@ -85,4 +85,7 @@ This project has four major parts :
 
 
 Run app.py using below command to start Flask API
+
+```bash
 python app.py
+```
