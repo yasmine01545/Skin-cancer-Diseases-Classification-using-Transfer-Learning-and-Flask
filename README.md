@@ -74,7 +74,7 @@ This project has four major parts :
 
 - model.py - This contains code fot our Machine Learning model to predict if the image is melanoma or not.
 - app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
-- template - This folder contains the HTML template (index.html) to allow user to enter employee detail and displays the predicted image.
+- template - This folder contains the HTML template (index.html) to allow user to enter patient detail and displays the predicted image.
 - static - This folder contains the css folder which has the styling required for out index.html file.
 
 
