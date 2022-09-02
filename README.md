@@ -89,3 +89,4 @@ Run app.py using below command to start Flask API
 ```bash
 python app.py
 ```
+![image](https://user-images.githubusercontent.com/80918787/188143394-fac54871-125c-4cde-93dc-7e2cfc84040c.png)
