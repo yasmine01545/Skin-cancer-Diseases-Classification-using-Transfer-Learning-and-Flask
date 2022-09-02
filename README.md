@@ -14,14 +14,11 @@ The rest of the paper is organised as follows:
 
 
 ```bash
-Section 2 details materials and proposed method.
-```
-```bash
-Section 3 represents results and discussion.
+Section 1 details materials and proposed method.
 ```
 
 ```bash
-Section 4 deploy the model using flask.
+Section 2 deploy the model using flask.
 ```
 
 
