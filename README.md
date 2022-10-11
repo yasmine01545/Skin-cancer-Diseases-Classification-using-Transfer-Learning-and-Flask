@@ -90,3 +90,7 @@ python app.py
 The home page of the application is shown above, Once you upload the image a preview will be 
 shown.
 
+![image](https://user-images.githubusercontent.com/80918787/195154260-818c6928-36ad-4db6-a421-af2d278ad348.png)
+The preview of the uploaded image is shown as a confirmation and you can make the predictions 
+from there as shown 
+
