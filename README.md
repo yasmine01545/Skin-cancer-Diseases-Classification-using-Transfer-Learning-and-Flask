@@ -94,3 +94,7 @@ shown.
 The preview of the uploaded image is shown as a confirmation and you can make the predictions 
 from there as shown 
 
+![image](https://user-images.githubusercontent.com/80918787/195154503-0b7e4d56-f3d4-4190-8d11-e4fde6ca927b.png)
+Now the image is taken into the flask framework where the prediction is made and the result is 
+shown on the same page as shown .
+
