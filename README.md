@@ -86,4 +86,7 @@ Run app.py using below command to start Flask API
 ```bash
 python app.py
 ```
-![image](https://user-images.githubusercontent.com/80918787/188143394-fac54871-125c-4cde-93dc-7e2cfc84040c.png)
+![image](https://user-images.githubusercontent.com/80918787/195153926-92851e01-2af3-4e88-8c72-7754fee01cc1.png)
+The home page of the application is shown above, Once you upload the image a preview will be 
+shown.
+
